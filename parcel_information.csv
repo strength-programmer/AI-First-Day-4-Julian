@@ -1,0 +1,21 @@
+Parcel ID,Sender Name,Receiver Name,Sender Address,Receiver Address,Parcel Weight (kg),Parcel Dimensions (cm),Shipping Date,Expected Delivery Date,Shipping Method,Current Location,Status,Tracking Number,Delivery Confirmation,Delivery Time,Shipping Cost (USD)
+P123450,ABC Corp,John Doe,"123 Sender St, City A","456 Receiver Rd, City B",5.2,30x20x15,11/10/2024,11/15/2024,Express,City B,Delivered,TRK123450,Yes,14:30,25
+P123451,XYZ Inc.,Jane Smith,"789 Sender Blvd, City C","101 Receiver Ave, City D",2.5,20x15x10,11/11/2024,11/16/2024,Standard,City D,In Transit,TRK123451,No,,15
+P123452,Alice Lee,Bob Brown,"456 Another St, City E","789 Another Rd, City F",3,25x20x12,11/12/2024,11/18/2024,Express,City F,Delayed,TRK123452,No,,20
+P123453,John's Mart,Michael Clark,"100 Ship Rd, City H","67 Cloud St, City A",4.8,35x25x20,11/13/2024,11/19/2024,Standard,City A,In Transit,TRK123453,No,,10
+P123454,QuickShip,Sara Wong,"55 Fast Ave, City G","99 Star Rd, City C",7.1,40x30x25,11/14/2024,11/20/2024,Express,City C,Delivered,TRK123454,Yes,16:45,30
+P123455,FastTrack,Tom Hanks,"910 West Ln, City F","10 Plaza Ave, City H",6.2,50x40x35,11/15/2024,11/21/2024,Express,City H,In Transit,TRK123455,No,,22
+P123456,Prime Delivery,Linda Lee,"60 Harbor Dr, City D","78 Town Dr, City G",1.4,15x10x8,11/16/2024,11/23/2024,Standard,City G,Delivered,TRK123456,Yes,11:00,18
+P123457,BlueSky Shipping,Henry Gold,"222 Cargo Rd, City B","400 Garden Rd, City E",3.3,30x25x15,11/17/2024,11/25/2024,Express,City E,Delayed,TRK123457,No,,25
+P123458,TopTrans Logistics,Anna Kim,"90 Lake St, City I","1500 River St, City B",8.5,60x50x40,11/18/2024,11/27/2024,Express,City B,In Transit,TRK123458,No,,40
+P123459,SpeedyExpress,Chris Pine,"45 Elm St, City J","2000 Mountain Rd, City D",2,25x20x15,11/19/2024,11/28/2024,Standard,City D,Delivered,TRK123459,Yes,10:30,15
+P1234510,UrbanCourier,Natalie King,"300 Ocean Rd, City A","500 Beach Ave, City F",5.5,35x25x20,11/20/2024,11/30/2024,Standard,City F,In Transit,TRK1234510,No,,35
+P1234511,MetroParcel,Liam Fox,"150 Maple Ave, City E","75 Park Blvd, City G",2.8,20x15x12,11/21/2024,12/1/2024,Express,City G,Delivered,TRK1234511,Yes,12:15,12
+P1234512,ShipRight,Oscar White,"1800 Forest Blvd, City C","350 Sky Rd, City H",6,45x35x30,11/22/2024,12/2/2024,Standard,City H,Delayed,TRK1234512,No,,28
+P1234513,ParcelPro,Emma Green,"400 Brook Rd, City D","22 Green Ln, City I",4.1,30x20x15,11/23/2024,12/4/2024,Express,City I,In Transit,TRK1234513,No,,30
+P1234514,ExpressIt,Daniel Blue,"88 Hilltop St, City B","140 Ocean Rd, City J",7.8,50x40x35,11/24/2024,12/5/2024,Express,City J,Delivered,TRK1234514,Yes,14:50,32
+P1234515,Eagle Delivery,Sophia Rose,"77 Valley Ave, City F","45 Central Ave, City C",3.5,30x25x20,11/25/2024,12/7/2024,Standard,City C,In Transit,TRK1234515,No,,18
+P1234516,Swift Logistics,Jake Black,"112 Ridge Rd, City G","34 Maple St, City A",5,40x30x25,11/26/2024,12/8/2024,Express,City A,Delivered,TRK1234516,Yes,13:20,26
+P1234517,EasySend,Mia Silver,"85 Sunset Blvd, City I","101 Rose Ln, City B",1.8,15x10x10,11/27/2024,12/10/2024,Standard,City B,Delayed,TRK1234517,No,,14
+P1234518,ShipNow,Ethan Gray,"50 Meadow St, City H","700 Stone Rd, City E",9.2,65x50x45,11/28/2024,12/12/2024,Express,City E,In Transit,TRK1234518,No,,45
+P1234519,RapidCouriers,Lily Brown,"15 Pine Ln, City J","99 Elm St, City H",2.9,20x15x12,11/29/2024,12/13/2024,Standard,City H,Delivered,TRK1234519,Yes,15:10,19
