@@ -1,6 +1,7 @@
 To create a dataset for parcel information in a logistics company, I’ll outline some example columns that could be useful for tracking essential parcel data. This dataset can contain details on each parcel’s attributes, shipping details, and status updates. 
 ## **Here’s a sample structure and a few example row**
 ### **Sample Columns for Parcel Dataset:**
+| Column Name | Description |
 1. Parcel ID: Unique identifier for each parcel.
 2. Sender Name: Name of the person or company sending the parcel.
 3. Receiver Name: Name of the person or company receiving the parcel.
